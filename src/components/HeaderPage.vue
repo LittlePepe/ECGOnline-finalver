@@ -19,7 +19,7 @@
         <!-- Coluna para a logo -->
         <v-col cols="12" sm="6" class="text-center logo-column">
           <!-- <h1 class="textostyle">LOGO</h1> -->
-          <v-img max-width="70vh"  src="../assets/Projeto-Logo.png" alt="logo"></v-img>
+          <v-img max-width="90vh"  src="../assets/Projeto-Logo.png" alt="logo"></v-img>
         </v-col>
       </v-row>
     </v-container>
