@@ -8,7 +8,9 @@
       <Telemedicina/>
       <CardMedical/>
       <Modalidades/>
+      <Footer/>
     </v-main>
+    
     
   </v-app>
 </template>
@@ -20,6 +22,7 @@ import NavBar from './components/NavBar.vue';
 import Telemedicina from './components/Telemedina.vue';
 import CardMedical from './components/CardMedical.vue';
 import Modalidades from './components/Modalidades.vue';
+import Footer from './components/Footer.vue';
 
   //
 </script>

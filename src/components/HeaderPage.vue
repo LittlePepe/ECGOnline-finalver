@@ -19,7 +19,7 @@
         <!-- Coluna para a logo -->
         <v-col cols="12" sm="6" class="text-center logo-column">
           <!-- <h1 class="textostyle">LOGO</h1> -->
-          <v-img max-width="90vh"  src="../assets/Projeto-Logo.png" alt="logo"></v-img>
+          <v-img max-width="70vh" style="margin-left: 15vh; margin-bottom: 10vh;"  src="../assets/Projeto-Logo.png" alt="logo"></v-img>
         </v-col>
       </v-row>
     </v-container>
@@ -36,7 +36,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 .app {
-  background-image: url('./src/assets/imageback.jpg');
+  background-image: url('./src/assets/imageback.png');
   background-size: cover;
   background-repeat: no-repeat;
   /* Outros estilos se necessário */
@@ -49,11 +49,14 @@ export default {
   max-height: 1000vh; /* Evita que a seção seja muito grande */
   max-width: 400%;
   align-items: center; /* Mantém conteúdo centralizado */
-  background-image: url('./src/assets/imageback.jpg');
+  background-image: url('./src/assets/imageback.png');
   background-size: cover;
   background-repeat: no-repeat;
-  margin-bottom: 20vh;
+  margin-bottom: 25vh;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.8px);
 }
+
 
 .textostyle {
   color: white;
