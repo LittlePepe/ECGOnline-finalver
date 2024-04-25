@@ -73,7 +73,7 @@ export default {}
 
 <style scoped>
 .custom-background-modal {
-    background-color: #1c42eb;
+    background: linear-gradient(to bottom, #26398f, #007bff); /* Define um degradê de azul */
 }
 
 .custom-titulo {
