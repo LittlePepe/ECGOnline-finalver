@@ -1,6 +1,6 @@
 <template>
     <div id="telemedicina" data-aos="fade-down" data-aos-delay="100" class="custom-text">
-      <h1 class="custom-font" style="color: #1D2C43; margin-bottom: 4vh;">Telemedicina</h1>
+      <h1 class="custom-font" style="color: #1D2C43; margin-bottom: 3vh;">Telemedicina</h1>
       <h3 class="custom-font" style="text-align: center;">
         Você já ouviu falar de um sistema de Telemedicina? Atualmente, este termo é usado para
         definir um sistema on-line de troca de informações médicas e análise de resultados de diferentes exames.
@@ -70,6 +70,7 @@
   </script>
   
 <style scoped>
+
     .custom-text {
     display: flex;
     flex-direction: column;

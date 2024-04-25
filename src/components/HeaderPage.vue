@@ -45,13 +45,14 @@ export default {
 .header-container {
   display: flex;
   padding: 10vh 5vh; /* Ajustar para responsividade */
-  min-height: 85vh; /* Proporção do tamanho */
-  max-height: 900vh; /* Evita que a seção seja muito grande */
+  min-height: 90vh; /* Proporção do tamanho */
+  max-height: 1000vh; /* Evita que a seção seja muito grande */
   max-width: 400%;
   align-items: center; /* Mantém conteúdo centralizado */
   background-image: url('./src/assets/imageback.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 20vh;
 }
 
 .textostyle {
