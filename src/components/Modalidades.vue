@@ -13,7 +13,7 @@
                     <v-card class="custom-card-modal" rounded="lg">
                         <v-row>
                             <v-col cols="4">
-                                <v-img src="../assets/Doctors.png" aspect-ratio="1.1" class="card-img" />
+                                <v-img src="../assets/Doctor1.png" aspect-ratio="1.1" class="card-img" />
                             </v-col>
                             <v-col cols="8">
                                 <v-card-title class="custom-title-top">Mapa</v-card-title>
@@ -32,7 +32,7 @@
                     <v-card class="custom-card-modal" rounded="lg">
                         <v-row>
                             <v-col cols="4">
-                                <v-img src="../assets/onDoctor.png" aspect-ratio="1.2" class="card-img" />
+                                <v-img src="../assets/Doctor2.png" aspect-ratio="1.2" class="card-img" />
                             </v-col>
                             <v-col cols="8">
                                 <v-card-title class="custom-title-top">Holter</v-card-title>
@@ -51,7 +51,7 @@
                     <v-card class="custom-card-modal" rounded="lg">
                         <v-row>
                             <v-col cols="4">
-                                <v-img src="../assets/Doctor.png" aspect-ratio="1.3" class="card-img" />
+                                <v-img src="../assets/Doctor3.png" aspect-ratio="1.3" class="card-img" />
                             </v-col>
                             <v-col cols="8">
                                 <v-card-title class="custom-title-top">Eletrocardiograma</v-card-title>
