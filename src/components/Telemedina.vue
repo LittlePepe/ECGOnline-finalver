@@ -2,10 +2,7 @@
     <div id="telemedicina" data-aos="fade-down" data-aos-delay="100" class="custom-text">
       <h1 class="custom-font" style="color: #1D2C43; margin-bottom: 3vh;">Telemedicina</h1>
       <h3 class="custom-font" style="text-align: center;">
-        Você já ouviu falar de um sistema de Telemedicina? Atualmente, este termo é usado para
-        definir um sistema on-line de troca de informações médicas e análise de resultados de diferentes exames.
-        Estes exames são avaliados e entregues de forma digital, dando apoio para a medicina tradicional e
-        funcionando de forma mais rápida e eficaz.
+        Oferecemos serviços especializados em laudos de eletrocardiograma, holter 24h e MAPA , garantindo análises precisas e confiáveis em até 24 horas. Na nossa plataforma contamos com especialistas renomados e utilizamos as mais recentes diretrizes clínicas.
       </h3>
   
 

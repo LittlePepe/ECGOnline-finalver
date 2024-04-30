@@ -11,7 +11,7 @@
             Somos uma central de laudos que atende clínicas e médicos do Brasil inteiro através de um dos melhores sistemas de Telemedicina disponíveis. Quer fazer parte?
           </h1>
           <v-btn outlined height="10vh" color="white" rounded class="custom-button">
-            Saiba mais
+            Faça seu orçamento
             <v-icon right style="color:#AE1613">mdi-menu-down</v-icon>
           </v-btn>
         </v-col>
